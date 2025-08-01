@@ -11,7 +11,7 @@ Hey, I'm Ranjith—a developer who likes building things that actually work.<br>
 ![1](https://github-readme-stats-eight-eosin-71.vercel.app/api?username=ranjith67&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![2](https://github-readme-stats-eight-eosin-71.vercel.app/api?username=ranjith67&theme=dark&hide_border=false)
 ![3](https://github-readme-stats-eight-eosin-71.vercel.app/api/top-langs/?username=ranjith67&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![4](https://github-readme-stats-eight-eosin-71.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&count_private=true)
+![4](https://github-readme-stats-eight-eosin-71.vercel.app/api/wakatime?username=ranjith67&count_private=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats-eight-eosin-71.vercel.app/?username=ranjith67&theme=radical&no-frame=false&no-bg=true&margin-w=4)
